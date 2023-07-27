@@ -1,0 +1,22 @@
+{
+  "name": "swgohformatter",
+  "version": "1.0.0",
+  "description": "data formatter for bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/c3po-modules/swgohformatter.git"
+  },
+  "author": "scuba75",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/c3po-modules/swgohformatter/issues"
+  },
+  "homepage": "https://gitlab.com/c3po-modules/swgohformatter#readme",
+  "dependencies": {
+    "numeral": "^2.0.6"
+  }
+}
